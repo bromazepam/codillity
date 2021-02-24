@@ -30,8 +30,8 @@ package com.company;
  */
 public class FrogJump {
     public int solution(int X, int Y, int D) {
-        if(X>Y)
+        if (X > Y)
             return -1;
-        return (int) Math.ceil((double)(Y-X)/D);
+        return (int) Math.ceil((double) (Y - X) / D);
     }
 }
