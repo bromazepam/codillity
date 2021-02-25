@@ -1,4 +1,4 @@
-package com.company;
+package com.company.lesson2_arrays;
 
 /**
  * An array A consisting of N integers is given. Rotation of the array means that each element is shifted right by

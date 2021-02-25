@@ -1,4 +1,4 @@
-package com.company;
+package com.company.lesson2_arrays;
 
 /**
  A non-empty array A consisting of N integers is given. The array contains an odd number of elements,and each element
