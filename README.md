@@ -24,6 +24,7 @@ Lesson 5 Prefix Sums
 - [CountDiv](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson5_prefixSums/CountDiv.java)
 - [PassingCars](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson5_prefixSums/PassingCars.java)
 - [GenomicRangeQuery](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson5_prefixSums/GenomicRangeQuery.java)
+- [MinAvgTwoSlice](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson5_prefixSums/MinAvgTwoSlice.java)
 
 Lesson 6 Sorting
 - [Distinct](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson6_sorting/Distinct.java)
