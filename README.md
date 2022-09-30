@@ -42,6 +42,10 @@ Lesson 8 Leader
 - [Dominator](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson8_leader/Dominator.java)
 - [EquiLeader](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson8_leader/EquiLeader.java)
 
+Lesson 9 Maximum Slice Problem
+- [MaxProfit](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson9_maximumSliceProblem/MaxProfit.java)
+- [MaxSliceSum](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson9_maximumSliceProblem/MaxSliceSum.java)
+
 Lesson 10 Prime And Composite Numbers
 - [CountFactors](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson10_primeAndCompositeNumbers/CountFactors.java)
 - [MinPerimeterRectangle](https://github.com/bromazepam/codillity/blob/main/src/com/company/lesson10_primeAndCompositeNumbers/MinPerimeterRectangle.java)
